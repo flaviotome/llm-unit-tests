@@ -1,0 +1,15 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# pytest
+.pytest_cache/
